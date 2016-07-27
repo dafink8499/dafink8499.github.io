@@ -6,5 +6,7 @@ import (
 )
 
 func main() {
-	fmt.Println(c.Red + "Hello World!" + c.X)
+	var h = "Hello"
+	fmt.Println(c.Red + h + " World!" + c.X)
+	println(c.Blue + h + " World!" + c.X)
 }
