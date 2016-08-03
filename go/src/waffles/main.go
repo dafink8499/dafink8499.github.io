@@ -15,7 +15,7 @@ func main() {
 			if toast := i.Ask(c.Blue + "Do you like French Toast? " + c.Red); toast == "yes" {
 				fmt.Println(c.Blue + "Can't wait to get a mouthful")
 			} else {
-				fmt.Println(c.violet + "Well I like French Toast!")
+				fmt.Println(c.Violet + "Well I like French Toast!")
 			}
 		} else {
 			fmt.Println(c.Violet + "Well I like Pancakes!")
