@@ -7,6 +7,6 @@ import (
 
 func main() {
 	for {
-		fmt.Print(c.Rc() + "Nyan\t" + c.X)
+		fmt.Print(c.Rc() + "Nyan " + c.X)
 	}
 }
