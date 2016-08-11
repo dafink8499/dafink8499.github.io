@@ -4,6 +4,7 @@ class Boot {
     this.scale.pageAlignHorizontally = true;
     this.scale.pageAlignVertically = true;
   }
+  
 }
 
 var game = new Phaser.Game(320,568);
