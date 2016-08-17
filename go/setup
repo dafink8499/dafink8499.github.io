@@ -1,3 +1,0 @@
-export PATH=$HOME/repos/dafink8499.github.io/go/bin:$PATH
-export GOPATH=$HOME/repos/dafink8499.github.io/go
-
